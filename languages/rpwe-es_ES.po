@@ -1,0 +1,274 @@
+# Copyright (C) 2015 Satrya
+# This file is distributed under the same license as the Recent Posts Widget Extended package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Recent Posts Widget Extended 0.9.9.2\n"
+"Report-Msgid-Bugs-To: http://satrya.me/\n"
+"POT-Creation-Date: 2015-08-13 18:31:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-08-14 17:53+0200\n"
+"Last-Translator: Satrya (satrya@satrya.me)\n"
+"Language-Team: Satrya (satrya@satrya.me)\n"
+"X-Generator: Poedit 1.8.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;"
+"_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/widget.php:24
+msgid ""
+"An advanced widget that gives you total control over the output of your site’s most recent "
+"Posts."
+msgstr ""
+"Un widget de avanzada que le da un control total sobre la salida de artículos más recientes "
+"de su sitio."
+
+#: classes/widget.php:35
+msgid "Recent Posts Extended"
+msgstr "Recent Posts Extended"
+
+#: includes/form.php:17 includes/form.php:112
+msgid "Title"
+msgstr "Título"
+
+#: includes/form.php:24
+msgid "Title URL"
+msgstr "Título de la URL"
+
+#: includes/form.php:31
+msgid "CSS ID"
+msgstr "CSS ID"
+
+#: includes/form.php:38
+msgid "CSS Class"
+msgstr "CSS Class"
+
+#: includes/form.php:45
+msgid "HTML or text before the recent posts"
+msgstr "HTML o texto antes de los post recientes"
+
+#: includes/form.php:52
+msgid "HTML or text after the recent posts"
+msgstr "HTML o texto después de los últimos post recientes"
+
+#: includes/form.php:64
+msgid "Ignore sticky posts"
+msgstr "Ignorar posts sticky"
+
+#: includes/form.php:70
+msgid "Post Types"
+msgstr "Tipos de Post"
+
+#: includes/form.php:86
+msgid "Post Status"
+msgstr "Estatus del Post"
+
+#: includes/form.php:97
+msgid "Order"
+msgstr "Orden"
+
+#: includes/form.php:100
+msgid "Descending"
+msgstr "Descendente"
+
+#: includes/form.php:101
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: includes/form.php:107
+msgid "Orderby"
+msgstr "Ordenar por"
+
+#: includes/form.php:110
+msgid "ID"
+msgstr "ID"
+
+#: includes/form.php:111
+msgid "Author"
+msgstr "Autor"
+
+#: includes/form.php:113
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/form.php:114
+msgid "Modified"
+msgstr "Modificados"
+
+#: includes/form.php:115
+msgid "Random"
+msgstr "Aleatorio"
+
+#: includes/form.php:116
+msgid "Comment Count"
+msgstr "Contador de comentario"
+
+#: includes/form.php:117
+msgid "Menu Order"
+msgstr "Orden del Menu"
+
+#: includes/form.php:123
+msgid "Limit to Category"
+msgstr "Limitar por Categoria"
+
+#: includes/form.php:139
+msgid "Limit to Tag"
+msgstr "Limitar por Etiquetas"
+
+#: includes/form.php:155
+msgid "Limit to Taxonomy"
+msgstr "Limitar por Taxonomía"
+
+#: includes/form.php:158
+msgid "Ex: category=1,2,4&amp;post_tag=6,12"
+msgstr "Ex: category=1,2,4&amp;post_tag=6,12"
+
+#: includes/form.php:159
+msgid "Available: "
+msgstr "Disponible:"
+
+#: includes/form.php:168
+msgid "Number of posts to show"
+msgstr "Número de posts por mostrar"
+
+#: includes/form.php:175
+msgid "Offset"
+msgstr "Offset"
+
+#: includes/form.php:178
+msgid "The number of posts to skip"
+msgstr "El número de posts para saltar"
+
+#: includes/form.php:186
+msgid "Display Thumbnail"
+msgstr "Visualizar  Miniaturas"
+
+#: includes/form.php:192
+msgid "Thumbnail (height,width,align)"
+msgstr "Thumbnail (height,width,align)"
+
+#: includes/form.php:197
+msgid "Left"
+msgstr "Izquierda"
+
+#: includes/form.php:198
+msgid "Right"
+msgstr "Derecha"
+
+#: includes/form.php:199
+msgid "Center"
+msgstr "Centrado"
+
+#: includes/form.php:205
+msgid "Default Thumbnail"
+msgstr "Miniatura por defecto"
+
+#: includes/form.php:208
+msgid "Leave it blank to disable."
+msgstr "Dejar en blanco para desactivar."
+
+#: includes/form.php:216
+msgid "Display Excerpt"
+msgstr "Visualizar Extracto"
+
+#: includes/form.php:222
+msgid "Excerpt Length"
+msgstr "Longitud del Extracto"
+
+#: includes/form.php:230
+msgid "Display Readmore"
+msgstr "Mostrar Leer Más"
+
+#: includes/form.php:236
+msgid "Readmore Text"
+msgstr "Leer más texto"
+
+#: includes/form.php:244
+msgid "Display Comment Count"
+msgstr "Visualizar Contador de Comentario"
+
+#: includes/form.php:251
+msgid "Display Date"
+msgstr "Mostrar Fecha"
+
+#: includes/form.php:258
+msgid "Display Modification Date"
+msgstr "Visualizar Modificación de Fecha"
+
+#: includes/form.php:265
+msgid "Use Relative Date. eg: 5 days ago"
+msgstr "Utilice Fecha Relativa por ejemplo: hace 5 días"
+
+#: includes/form.php:277
+msgid "Use Default Styles"
+msgstr "Utilice Estilos por defecto"
+
+#: includes/form.php:283
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+#: includes/form.php:286
+msgid ""
+"If you turn off the default styles, you can use these css code to customize the recent "
+"posts style."
+msgstr ""
+"Si desactiva los estilos por defecto, puede utilizar estos códigos CSS para personalizar el "
+"estilo de los post recientes."
+
+#: includes/functions.php:22
+msgid "Recent Posts"
+msgstr "Posts Recientes"
+
+#: includes/functions.php:47
+msgid "Read More &raquo;"
+msgstr "Leer Más &raquo;"
+
+#: includes/functions.php:169
+msgid "Permalink to %s"
+msgstr "Enlace permanente por %s"
+
+#: includes/functions.php:174 includes/functions.php:180
+msgid "%s ago"
+msgstr "hace %s"
+
+#: includes/functions.php:187
+msgid "No Comments"
+msgstr "No hay comentarios"
+
+#: includes/functions.php:189
+msgid "%s Comments"
+msgstr "%s Comentarios"
+
+#: includes/functions.php:191
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#. Plugin Name of the plugin/theme
+msgid "Recent Posts Widget Extended"
+msgstr "Recent Posts Widget Extended"
+
+#. Plugin URI of the plugin/theme
+msgid "http://satrya.me/projects/recent-posts-widget-extended/"
+msgstr "http://satrya.me/projects/recent-posts-widget-extended/"
+
+#. Description of the plugin/theme
+msgid ""
+"Enables advanced widget that gives you total control over the output of your site’s most "
+"recent Posts."
+msgstr ""
+"Un widget de avanzada que le da un control total sobre la salida de artículos más recientes "
+"de su sitio."
+
+#. Author of the plugin/theme
+msgid "Satrya"
+msgstr "Satrya"
+
+#. Author URI of the plugin/theme
+msgid "http://satrya.me/"
+msgstr "http://satrya.me/"
